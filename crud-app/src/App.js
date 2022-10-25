@@ -1,11 +1,12 @@
 
 import './App.css';
+import Index from './routes';
 
 function App() {
   return (
     <div className="App">
       <div>
-      <h1>Hi!</h1>
+        <Index/>
       </div>
     </div>
   );
